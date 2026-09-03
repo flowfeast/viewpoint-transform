@@ -1,0 +1,4 @@
+interface:
+  display_name: "视角变换"
+  short_description: "保持同一场景连续性，生成可信的新机位视角"
+  default_prompt: "Use $viewpoint-transform to preserve this scene's identity and spatial continuity while generating the requested new camera viewpoint."
